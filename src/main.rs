@@ -3,8 +3,8 @@ use photon_rs::native::{open_image, save_image};
 use photon_rs::PhotonImage;
 
 fn main() {
-    let img_path = "/home/gp/Projects/filter/assets/image0.jpg";
-    let op_path = "/home/gp/Projects/filter/assets/image0_result.jpg";
+    let img_path = "/home/gp/Projects/frosted-rs/assets/image4.jpg";
+    let op_path = "/home/gp/Projects/frosted-rs/assets/image4_result.jpg";
     let img = open_image(img_path).expect("Bruh");
     let width = img.get_width();
     let height = img.get_height();
