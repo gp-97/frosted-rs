@@ -5,7 +5,7 @@ Rust binary for applying frosted glass effect to images.
 ## Example usage
 
 ```sh
-cargo run --release <path to image> <path for output image>
+cargo run --release <path to image> <path to output image>
 ```
 
 ## Example Outputs
