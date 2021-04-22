@@ -1,0 +1,9 @@
+[package]
+name = "filter"
+version = "0.1.0"
+authors = ["Gaurav Patel <GauravPatel97@outlook.com>"]
+edition = "2018"
+
+[dependencies]
+perlin2d = "0.2.6"
+photon-rs = "0.3.0"
