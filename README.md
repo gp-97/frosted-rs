@@ -1,3 +1,4 @@
+> # NOTE: frosted-rs is now a part of [photon image processing library](https://github.com/silvia-odwyer/photon).
 # frosted-rs
 
 Rust binary for applying frosted glass effect to images.
